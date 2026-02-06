@@ -1,0 +1,47 @@
+JANE DOE
+Senior Software Engineer
+jane.doe@email.com | (555) 123-4567 | LinkedIn: linkedin.com/in/janedoe | GitHub: github.com/janedoe
+
+SUMMARY
+Experienced Senior Software Engineer with 8+ years of expertise in full-stack development, cloud architecture, and team leadership. Specialized in Python, JavaScript, and AWS solutions. Proven track record of delivering scalable applications that drive business growth and improve operational efficiency.
+
+TECHNICAL SKILLS
+Programming: Python, JavaScript, Java, SQL, TypeScript
+Frameworks: Django, React, Node.js, FastAPI, Spring Boot
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Tools: Git, Jenkins, Terraform, JIRA, Slack
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | Tech Solutions Inc. | Jan 2020 - Present
+- Led development of microservices architecture serving 500K+ users, improving system performance by 40%
+- Mentored 5 junior developers and established coding standards and best practices
+- Implemented CI/CD pipeline reducing deployment time from 2 hours to 15 minutes
+- Collaborated with product teams to deliver 15+ features ahead of schedule
+
+Software Engineer | Digital Innovations Corp. | Jun 2016 - Dec 2019
+- Developed RESTful APIs using Python/Django handling 10M+ monthly requests
+- Built responsive front-end interfaces with React and TypeScript
+- Optimized database queries reducing page load times by 60%
+- Participated in agile sprints and code reviews maintaining 95% test coverage
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2012 - 2016
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Google Professional Cloud Developer
+- Scrum Master Certified
+
+PROJECTS
+E-Commerce Platform (Personal Project)
+- Full-stack e-commerce solution with payment integration and inventory management
+- Built with Django, React, and PostgreSQL, deployed on AWS
+- Features include user authentication, product catalog, and order tracking
+
+Health Monitoring System (Open Source)
+- Python-based system for tracking health metrics and generating reports
+- Integrated with wearable device APIs and machine learning models
+- 500+ GitHub stars and active contributor community
